@@ -11,4 +11,6 @@ Get the saved model 'state_dict.pt' and make some changes in the app.py accordin
 Run 'app.py'.
 
 
-#System Architecture
+# System Architecture
+
+![Project Image](SystemArch.jpeg)
